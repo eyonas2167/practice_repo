@@ -1,5 +1,5 @@
 # write an unessarily verbose hello world, to bug Elohe
-
+import pygame
 def verbose_hello_elohe():
     print("Hello, Elohe!")
     print("How are you today?")
